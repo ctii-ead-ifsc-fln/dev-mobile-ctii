@@ -1,4 +1,4 @@
-# APP básico com Boostrap
+# APP básico com SPA
 
 App funcionando: https://ctii-ead-ifsc-fln.github.io/dev-mobile-ctii/maonamassa/spa/index.html
 
